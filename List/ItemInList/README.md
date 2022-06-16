@@ -17,3 +17,7 @@
 
 > Using ".indices" to indicate each friend.
 <img width="1512" alt="Screen Shot 2565-06-16 at 23 22 52" src="https://user-images.githubusercontent.com/57714919/174118970-51d5a3fe-33c5-442c-b17f-6253495deffa.png">
+
+## DisplayAlternateRowStyles
+<img width="1512" alt="Screen Shot 2565-06-16 at 23 47 40" src="https://user-images.githubusercontent.com/57714919/174123890-b61ad308-0dc3-4d5e-b7fc-eaed4a3d8d68.png">
+
