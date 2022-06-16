@@ -7,15 +7,23 @@
 
 import SwiftUI
 
-//struct Friend {
-//    let name: String
-//}
+struct Friend: Identifiable {
+    let id = UUID()
+    let name: String
+}
 
 struct ContentView: View {
     
+    let friend = [Friend(name: "Jone"), Friend(name: "Mary"), Friend(name: "Steven")]
+    
+    
     var body: some View {
-        List(1...20, id: \.self) { index in
-            Text("\(index)")
+        List(friend.indices) { index in
+            let friend = friend[index]
+            HStack {
+                Text("\(index+1)")
+                Text(friend.name)
+            }
         }
     }
 }
