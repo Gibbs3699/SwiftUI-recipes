@@ -20,4 +20,3 @@
 
 ## DisplayAlternateRowStyles
 <img width="1512" alt="Screen Shot 2565-06-16 at 23 47 40" src="https://user-images.githubusercontent.com/57714919/174123890-b61ad308-0dc3-4d5e-b7fc-eaed4a3d8d68.png">
-
