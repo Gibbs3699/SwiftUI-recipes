@@ -20,3 +20,8 @@
 
 ## DisplayAlternateRowStyles
 <img width="1512" alt="Screen Shot 2565-06-16 at 23 47 40" src="https://user-images.githubusercontent.com/57714919/174123890-b61ad308-0dc3-4d5e-b7fc-eaed4a3d8d68.png">
+
+## AddDeleteMoving
+<img width="1512" alt="Screen Shot 2565-06-17 at 09 27 25" src="https://user-images.githubusercontent.com/57714919/174212937-e5c98892-c8a3-48d6-9ddd-c4ebcc030305.png">
+
+<img width="1512" alt="Screen Shot 2565-06-17 at 09 27 27" src="https://user-images.githubusercontent.com/57714919/174212757-9ae0dd35-0d48-4139-ab86-55399d6d7f4d.png">
