@@ -61,9 +61,9 @@
 				DCB9497A2863782E0097A13D /* ContentView.swift */,
 				DCB94986286378750097A13D /* Post.swift */,
 				DCB9498828637B9A0097A13D /* Webservice.swift */,
+				DCB9498A28637E430097A13D /* PostListViewModel.swift */,
 				DCB9497C2863782F0097A13D /* Assets.xcassets */,
 				DCB9497E2863782F0097A13D /* Preview Content */,
-				DCB9498A28637E430097A13D /* PostListViewModel.swift */,
 			);
 			path = MVVM;
 			sourceTree = "<group>";

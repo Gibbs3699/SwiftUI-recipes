@@ -8,9 +8,19 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    @StateObject private var postListViewModel = PostListViewModel()
+    
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        List(postListViewModel.posts, id: \.id) { post in
+            VStack(alignment: .leading, spacing: 10) {
+                Text(post.title)
+                    .font(.headline)
+                Text(post.body)
+            }
+        }.onAppear(perform: {
+            postListViewModel.populatePosts()
+        })
     }
 }
 
