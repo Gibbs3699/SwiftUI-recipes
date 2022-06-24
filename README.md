@@ -5,3 +5,5 @@ Create all SwiftUI cheatsheet!
 Resource link: https://www.udemy.com/course/swiftui-declarative-interfaces-for-any-apple-device/learn/lecture/22829415#overview 
 
 - Data Flow
+- List 
+- MVVM
